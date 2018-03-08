@@ -1,0 +1,21 @@
+﻿
+23:09:23
+Vivien : Bonjour, je suis un joueur de longue date d'Arkanoid, j'aime ce jeu.
+<i>23:46:28</i>
+<b>Toto</b> : Ouai, c'est sympa comme jeu.
+<i><small><style>color:green23:51:24</style></small></i>
+<b>Titi</b> : Salut les fans
+<i><small>23:52:09</small></i>
+<b>Thomas</b> : On fait comment au niveau 7 ?
+<i><small>19:45:29</small></i>
+<b>Rémi</b> : Oui, je suis blocké à ce niveau moi aussi !
+<i><small>19:47:21</small></i>
+<b>Admin</b> : I faut casser les briques sur les extrémités, et y placer la bille, comme ça, elle aura du mal a sortir.
+<i><small><div class='heure_tchat'>19:48:46</div></small></i>
+<b>Thomas</b> : Ah merci, je vais essayer tout de suite, je vous tiens au courant !
+<i><small><div class='heure_tchat'>19:50:25</div></small></i>
+<b>Thomas</b> : Ah super merci, j'ai enfin débloquer le niveau !! :-)
+<i><small><div class='heure_tchat'>19:53:30</div></small></i>
+<b>Rémi</b> : ah ouai, c'est pratique
+<i><small>19:55:31</small></i>
+<b>Rémi</b> : ah ouai, c'est pratique
